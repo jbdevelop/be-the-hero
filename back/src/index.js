@@ -10,3 +10,4 @@ app.use(express.json())
 app.use(routes)
 
 app.listen(5555)
+console.log("NodeJS Server Online on port: 5555")
